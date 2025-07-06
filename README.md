@@ -1,4 +1,4 @@
-# Python-RFM-Analysis-SuperStore-Global-Retail-Company
+# [Python] RFM Analysis - SuperStore Global Retail Company
 
 **Author:** Mai Ngoc Chau (Chann)
 
