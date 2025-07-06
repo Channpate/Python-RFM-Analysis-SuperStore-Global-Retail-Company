@@ -102,16 +102,16 @@ Table name: ecommerce retail.xlsx
 ### ✅ Visualize Result 
 **1. Explore which metrics should we focus on?**
 
-![img1](https://github.com/Channpate/-Python-RFM-Analysis---SuperStore-Global-Retail-Company/blob/6646a0730f3e7a5b9f98b474cb3aa8d3f6b4c632/RFM%20Analysis%20Visualization/R-F-M%20Distribution.png)
-![img2](https://github.com/Channpate/-Python-RFM-Analysis---SuperStore-Global-Retail-Company/blob/acef5d45e625b1709832ff6b884795f05f735b58/RFM%20Analysis%20Visualization/1.2.frequency%20dist.png)
-![img3](https://github.com/Channpate/-Python-RFM-Analysis---SuperStore-Global-Retail-Company/blob/acef5d45e625b1709832ff6b884795f05f735b58/RFM%20Analysis%20Visualization/1.3.monetary%20dist.png)
+![img1](https://github.com/Channpate/Python-RFM-Analysis-SuperStore-Global-Retail-Company/blob/ae40b92580c6999f2934a5b2530e87f3cca1f0b7/Visual%20Chart/R-F-M%20Distribution.png)
+![img2](https://github.com/Channpate/Python-RFM-Analysis-SuperStore-Global-Retail-Company/blob/ae40b92580c6999f2934a5b2530e87f3cca1f0b7/Visual%20Chart/1.2.frequency%20dist.png)
+![img3](https://github.com/Channpate/Python-RFM-Analysis-SuperStore-Global-Retail-Company/blob/ae40b92580c6999f2934a5b2530e87f3cca1f0b7/Visual%20Chart/1.3.monetary%20dist.png)
 
-![img4](https://github.com/Channpate/-Python-RFM-Analysis---SuperStore-Global-Retail-Company/blob/acef5d45e625b1709832ff6b884795f05f735b58/Correlation%20heatmap%20between%20R%2CF%20and%20M.png)
+![img4](https://github.com/Channpate/Python-RFM-Analysis-SuperStore-Global-Retail-Company/blob/ae40b92580c6999f2934a5b2530e87f3cca1f0b7/Visual%20Chart/Correlation%20heatmap%20between%20R%2CF%20and%20M.png)
 
-![img5](https://github.com/Channpate/-Python-RFM-Analysis---SuperStore-Global-Retail-Company/blob/acef5d45e625b1709832ff6b884795f05f735b58/3.%20avg%20money%20by%20frequency.png)
-![img6](https://github.com/Channpate/-Python-RFM-Analysis---SuperStore-Global-Retail-Company/blob/acef5d45e625b1709832ff6b884795f05f735b58/4.%20avg%20money%20by%20recency.png)
-![img7](https://github.com/Channpate/-Python-RFM-Analysis---SuperStore-Global-Retail-Company/blob/acef5d45e625b1709832ff6b884795f05f735b58/RFM%20Analysis%20Visualization/5.%20scatter%20plot%20MR.png)
-![img8](https://github.com/Channpate/-Python-RFM-Analysis---SuperStore-Global-Retail-Company/blob/acef5d45e625b1709832ff6b884795f05f735b58/RFM%20Analysis%20Visualization/6.%20scatter%20MF.png)
+![img5](https://github.com/Channpate/Python-RFM-Analysis-SuperStore-Global-Retail-Company/blob/ae40b92580c6999f2934a5b2530e87f3cca1f0b7/Visual%20Chart/3.%20avg%20money%20by%20frequency.png)
+![img6](https://github.com/Channpate/Python-RFM-Analysis-SuperStore-Global-Retail-Company/blob/ae40b92580c6999f2934a5b2530e87f3cca1f0b7/Visual%20Chart/4.%20avg%20money%20by%20recency.png)
+![img7](https://github.com/Channpate/Python-RFM-Analysis-SuperStore-Global-Retail-Company/blob/ae40b92580c6999f2934a5b2530e87f3cca1f0b7/Visual%20Chart/5.%20scatter%20plot%20MR.png)
+![img8](https://github.com/Channpate/Python-RFM-Analysis-SuperStore-Global-Retail-Company/blob/ae40b92580c6999f2934a5b2530e87f3cca1f0b7/Visual%20Chart/6.%20scatter%20MF.png)
 
 &rarr; F_score and M_score have the strongest correlation.
 
@@ -121,17 +121,17 @@ Table name: ecommerce retail.xlsx
 
 **2. Visualize to understand customer segmentation**
 
-![img9](https://github.com/Channpate/-Python-RFM-Analysis---SuperStore-Global-Retail-Company/blob/acef5d45e625b1709832ff6b884795f05f735b58/RFM%20Analysis%20Visualization/7.%20customer%20segment%20distribution%20and%20revenue%20per%20segment.png)
-![img10](https://github.com/Channpate/-Python-RFM-Analysis---SuperStore-Global-Retail-Company/blob/acef5d45e625b1709832ff6b884795f05f735b58/RFM%20Analysis%20Visualization/8.%20customer%20distribution%20and%20revenue%20combined.png)
+![img9](https://github.com/Channpate/Python-RFM-Analysis-SuperStore-Global-Retail-Company/blob/ae40b92580c6999f2934a5b2530e87f3cca1f0b7/Visual%20Chart/7.%20customer%20segment%20distribution%20and%20revenue%20per%20segment.png)
+![img10](https://github.com/Channpate/Python-RFM-Analysis-SuperStore-Global-Retail-Company/blob/ae40b92580c6999f2934a5b2530e87f3cca1f0b7/Visual%20Chart/8.%20customer%20distribution%20and%20revenue%20combined.png)
 
 - **Champions are the most prominent customer group:** They generate the highest revenue (~$3,521 million) and have the highest number of customers (~82,617)
 - **Hibernating customers are the second largest in number (~81,235)**, but only generate $124 million, indicating that this group is of low value and should be considered for “awakening”.
 - Groups such as At Risk and Loyal, although smaller in number, contribute much more revenue than other groups → potential to be nurtured into Champions.
 - The Lost group has a high number of customers but low revenue → likely to be customers who have left or are not active for a long time.
 
-![img11](https://github.com/Channpate/-Python-RFM-Analysis---SuperStore-Global-Retail-Company/blob/acef5d45e625b1709832ff6b884795f05f735b58/RFM%20Analysis%20Visualization/9.Recency%20Treemap%20of%20Customer%20Segments%20in%20UK.png)
-![img12](https://github.com/Channpate/-Python-RFM-Analysis---SuperStore-Global-Retail-Company/blob/acef5d45e625b1709832ff6b884795f05f735b58/RFM%20Analysis%20Visualization/10.%20Recency%20Treemap%20of%20Customer%20Segments%20in%20Ger.png)
-![img13](https://github.com/Channpate/-Python-RFM-Analysis---SuperStore-Global-Retail-Company/blob/acef5d45e625b1709832ff6b884795f05f735b58/RFM%20Analysis%20Visualization/11.%20Recency%20Treemap%20of%20Customer%20Segments%20in%20FR.png)
+![img11](https://github.com/Channpate/Python-RFM-Analysis-SuperStore-Global-Retail-Company/blob/ae40b92580c6999f2934a5b2530e87f3cca1f0b7/Visual%20Chart/9.Recency%20Treemap%20of%20Customer%20Segments%20in%20UK.png)
+![img12](https://github.com/Channpate/Python-RFM-Analysis-SuperStore-Global-Retail-Company/blob/ae40b92580c6999f2934a5b2530e87f3cca1f0b7/Visual%20Chart/10.%20Recency%20Treemap%20of%20Customer%20Segments%20in%20Ger.png)
+![img13](https://github.com/Channpate/Python-RFM-Analysis-SuperStore-Global-Retail-Company/blob/ae40b92580c6999f2934a5b2530e87f3cca1f0b7/Visual%20Chart/11.%20Recency%20Treemap%20of%20Customer%20Segments%20in%20FR.png)
 
 Based on the three treemaps, it can be seen that **Champions is the highest revenue group in France, Germany and the UK**, with a particularly strong presence in the UK. Meanwhile, **Loyal and At Risk play a significant role in France and Germany but are less prominent in the UK**. 
 
@@ -141,9 +141,9 @@ These differences suggest that customer retention strategies need to be tailored
 
 Respectively, purchase frequency among segments is quite like the revenue contributed.
 
-![img14](https://github.com/Channpate/-Python-RFM-Analysis---SuperStore-Global-Retail-Company/blob/acef5d45e625b1709832ff6b884795f05f735b58/RFM%20Analysis%20Visualization/12.%20Frequency%20Treemap%20of%20Customer%20Segments%20in%20UK.png)
-![img15](https://github.com/Channpate/-Python-RFM-Analysis---SuperStore-Global-Retail-Company/blob/acef5d45e625b1709832ff6b884795f05f735b58/RFM%20Analysis%20Visualization/13.%20Frequency%20Treemap%20of%20Customer%20Segments%20in%20Ger.png)
-![img16](https://github.com/Channpate/-Python-RFM-Analysis---SuperStore-Global-Retail-Company/blob/acef5d45e625b1709832ff6b884795f05f735b58/RFM%20Analysis%20Visualization/14.%20Frequency%20Treemap%20of%20Customer%20Segments%20in%20France.png)
+![img14](https://github.com/Channpate/Python-RFM-Analysis-SuperStore-Global-Retail-Company/blob/ae40b92580c6999f2934a5b2530e87f3cca1f0b7/Visual%20Chart/12.%20Frequency%20Treemap%20of%20Customer%20Segments%20in%20UK.png)
+![img15](https://github.com/Channpate/Python-RFM-Analysis-SuperStore-Global-Retail-Company/blob/ae40b92580c6999f2934a5b2530e87f3cca1f0b7/Visual%20Chart/13.%20Frequency%20Treemap%20of%20Customer%20Segments%20in%20Ger.png)
+![img16](https://github.com/Channpate/Python-RFM-Analysis-SuperStore-Global-Retail-Company/blob/ae40b92580c6999f2934a5b2530e87f3cca1f0b7/Visual%20Chart/14.%20Frequency%20Treemap%20of%20Customer%20Segments%20in%20France.png)
 
 
 
