@@ -6,6 +6,8 @@
 
 **Tool used:** Python (Google Colab)
 
+**Direct Colab link:** https://colab.research.google.com/drive/1KfucD55zKefnRVSM033HPuLz4AK-N9SJ?usp=sharing
+
 ## 📑 Table of Contents
 - [📌 Background & Overview](#-background--overview)
 - [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)
