@@ -152,10 +152,10 @@ Respectively, purchase frequency among segments is quite like the revenue contri
 ## 🔎 Final Conclusion & Recommendations
 
 1.   The <b>“Champions” and “Loyal”</b> customer groups are contributing a large portion of revenue and have made frequent purchases recently. They are brand lovers and have the ability to spread the word. --> Organize gratitude programs (VIP incentives, gifts) for Champions and Loyal.
-2.   Groups like **“At Risk”, “Lost” or “Hibernating”** are customers who used to interact, but are now quiet. Some of them may have forgotten about us, or are waiting for a reason to come back. --> Need a call to action: Send personalized emails and limited-time promotions to activate your At Risk, Lost group.
+2.   Groups like **“At Risk”, “Lost” or “Hibernating”** are customers who used to interact, but are now quiet. In addition, the amount of those segments is quite considerable. Some of them may have forgotten about us, or are waiting for a reason to come back. --> Need a call to action: Send personalized emails and limited-time promotions to activate your At Risk, Lost group.
 3. The chart shows that **high spenders are also recent buyers – and vice versa**. This further confirms that retaining existing customers is much more valuable than acquiring new ones.
 For high spenders, continue to nurture them: prioritize service, reward points, or personalize product recommendations.
-4. The data shows that SuperStore’s three largest markets are the UK, the Netherlands and Germany – and customer behaviour is different in each.
+4. The data shows that SuperStore’s three largest markets are the UK, France and Germany – and customer behaviour is different in each.
 * In the UK, there are a lot of “Champions” and “Loyals” → This is a market ripe for a loyalty programme.
 * In Germany, there are a lot of “Hibernating” → Try a focused reactivation campaign, perhaps with a small gift.
 * In the Netherlands, there are a lot of “Potential Loyalists” → This is a potential place to convert new customers into loyal customers if nurtured properly.
